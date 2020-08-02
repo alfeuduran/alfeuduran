@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Microsoft
-- 🌱 I’m currently learning ...Kafka with Kubernetes in Azure/ Scala programing Stuff
+- 🌱 I’m currently learning ...Kafka with Kubernetes in Azure/ Scala programing stuff
 - 👯 I’m looking to collaborate on ... Azure Data& AI solutions
 - 🤔 I’m looking for help with ... Azure Data  / Contribute with Spark Log4j Connector for Databricks with Spark 3.0
 - 💬 Ask me about ... Anything
